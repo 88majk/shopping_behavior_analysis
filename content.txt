@@ -1,0 +1,23 @@
+For the attached data file in csv format, perform the following tasks:
+
+
+Not using the pandas library (or any similar library)
+
+
+	1.1 A function that returns the total spending of all shoppers in each season and sort in descending order. 
+	1.2. A function returning the 3 most frequently purchased colors of handbags (Handbag)
+	1.3 A function returning men, aged 18-25, who purchased blouses (Blouse) in size XL 
+	1.4 A pie chart showing the distribution of the types of clothes purchased among women, aged 25-45.
+	1.5. Age distribution in the data in the form of a histogram
+	1.6 Two of your own ideas for the aspect to be analyzed (describe in the report what we want to analyze and why such information may be useful to us) and its solution
+
+
+Using the pandas library (or similar)
+
+
+	2.1 A function that returns the total spending of shoppers by product type (Category)
+	2.2 A function returning the 5 cities where the most dresses were bought (Dresses)
+	2.3 A function returning women, under the age of 40, who have subscribed have made more than 15 purchases (Previous Purchases)
+	2.4 A chart showing the distribution of payment methods according to the age of the person
+	2.5. Distribution of shipping type (Shipping Type) among the data in the form of a histogram 
+	2.6. Two of your own ideas for the aspect to be analyzed (describe in the report what we want to analyze and why such information may be useful to us) and its solution
